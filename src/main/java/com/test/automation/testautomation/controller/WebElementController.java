@@ -16,6 +16,7 @@ import java.util.Optional;
 
 @RestController
 @CrossOrigin
+@RequestMapping("/api")
 public class WebElementController {
 
     @Autowired
