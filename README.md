@@ -1,7 +1,9 @@
-#Automation Testing
+**Automation Testing
+
 Create your own UI testing suite
 
-#Prerequisites
+**Prerequisites
+
 - Java 8+
 - Maven
 - MySQL
@@ -11,7 +13,8 @@ Create your own UI testing suite
 - Rest Assured
 - JUnit
 
-#Getting Started
+**Getting Started
+
 1. Clone or download the project
 2. Open the project in your favorite IDE
 3. Go to application.properties
